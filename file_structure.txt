@@ -1,0 +1,10 @@
+invoice-generator/
+├── app.py                    # Enhanced Streamlit app
+├── invoice_generator.py      # Core PDF generation
+├── batch_processor.py        # NEW: CSV batch processing
+├── templates.py             
+├── requirements.txt         # Updated dependencies
+├── sample_invoice_batch.csv # Example CSV template
+├── railway.json         
+└── samples/
+    └── invoice_template.csv # Download template

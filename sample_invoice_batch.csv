@@ -1,0 +1,9 @@
+client_name,client_email,client_address,client_phone,item_description,quantity,rate,tax_rate,currency,payment_terms,notes
+"ABC Company Ltd","billing@abccompany.com","123 Business Ave, New York, NY 10001","+1-555-0123","Website Development - Homepage Design",1,1500,10,USD,Net 30,"Thank you for your business!"
+"ABC Company Ltd","billing@abccompany.com","123 Business Ave, New York, NY 10001","+1-555-0123","Website Development - Contact Form",1,500,10,USD,Net 30,"Thank you for your business!"
+"ABC Company Ltd","billing@abccompany.com","123 Business Ave, New York, NY 10001","+1-555-0123","Monthly Hosting",3,50,10,USD,Net 30,"Thank you for your business!"
+"XYZ Corporation","accounts@xyzcorp.com","456 Corporate Blvd, Los Angeles, CA 90001","+1-555-0456","Logo Design - Initial Concepts",1,800,8.5,USD,Net 15,"Payment via wire transfer preferred"
+"XYZ Corporation","accounts@xyzcorp.com","456 Corporate Blvd, Los Angeles, CA 90001","+1-555-0456","Logo Design - Final Files",1,400,8.5,USD,Net 15,"Payment via wire transfer preferred"
+"Smith Consulting","john@smithconsulting.com","789 Main St, Chicago, IL 60601","+1-555-0789","SEO Consultation - 5 hours",5,150,0,USD,Due on Receipt,"PayPal payment accepted"
+"Tech Startup Inc","finance@techstartup.io","321 Innovation Dr, Austin, TX 78701","","Mobile App UI Design",1,2500,8.25,USD,Net 45,"Includes 2 rounds of revisions"
+"Tech Startup Inc","finance@techstartup.io","321 Innovation Dr, Austin, TX 78701","","User Testing Setup",1,750,8.25,USD,Net 45,"Includes 2 rounds of revisions"
