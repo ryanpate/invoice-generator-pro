@@ -98,7 +98,7 @@ with tab1:
     st.subheader("📝 Line Items")
 
     if 'line_items' not in st.session_state:
-        st.session_state.line_items = [{"description": "", "quantity": 1, "rate": 0.00}]
+        st.session_state.line_items = [{"description": "", "quantity": 1.0, "rate": 0.00}]
 
     # Display existing line items
     for idx, item in enumerate(st.session_state.line_items):
@@ -117,7 +117,7 @@ with tab1:
     col1, col2, col3 = st.columns([1, 1, 4])
     with col1:
         if st.button("➕ Add Item", key="single_add"):
-            st.session_state.line_items.append({"description": "", "quantity": 1, "rate": 0.00})
+            st.session_state.line_items.append({"description": "", "quantity": 1.0, "rate": 0.00})
             st.rerun()
     with col2:
         if st.button("➖ Remove Last", key="single_remove") and len(st.session_state.line_items) > 1:
